@@ -2,7 +2,9 @@
 
 Script em Python para automatizar a organização de pastas de candidatos com base em informações contidas em arquivos HTML institucionais.
 
-O projeto foi desenvolvido para resolver um problema real de organização de documentos acadêmicos, envolvendo grande volume de dados, regras condicionais e tratamento de inconsistências nos arquivos de entrada.
+O projeto foi desenvolvido para resolver um problema real de organização de documentos acadêmicos na UNIVERSIDADE FEDEREAL FLUMINENSE (UFF), envolvendo grande volume de dados, regras condicionais e tratamento de inconsistências nos arquivos de entrada.
+
+
 
 ---
 
