@@ -2,7 +2,7 @@ import os
 import shutil
 from bs4 import BeautifulSoup
 
-PASTA_BASE = r"CAMINHO_DA_PASTA_BASE"
+PASTA_BASE = r"C:\Users\CAMINHO_DA_PASTA_BASE\exemplos\teste"
 PASTA_ELIMINADOS = os.path.join(PASTA_BASE, "_ELIMINADOS")
 
 
