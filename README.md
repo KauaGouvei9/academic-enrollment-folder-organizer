@@ -101,17 +101,23 @@ academic-enrollment-folder-organizer/
 
 ---
 
+## 📺 Demonstração
 
+### Vídeo
+Veja o script em ação organizando 30 pastas de candidatos:
 
-## Exemplo - verificar na pasta das fotos.
+![Demo](demo/video_demo.mp4)
 
+*Ou acesse: [Link do vídeo](demo/video_demo.mp4)*
 
-exemplos/Pasta_Aptos/
-NITERÓI - MEDICINA - ANA CAROLINA FERREIRA LIMA
-RIO DAS OSTRAS - ENGENHARIA DE PRODUÇÃO - RAFAEL PEREIRA DOS SANTOS
+### Screenshots
+| Antes | Depois (Aptos) | Inaptos |
+|-------|----------------|---------|
+| ![Before](showcase/Pasta_before.png) | ![After](showcase/Aptos_after.png) | ![Inaptos](showcase/Inaptos.png) |
 
+## 🧪 Testando o projeto
 
-
+Os dados de demonstração estão disponíveis em `/demo/candidatos_demo/` com informações fictícias para testes.
 ---
 
 
